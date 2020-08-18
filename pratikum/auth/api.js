@@ -1,0 +1,1 @@
+const { app, md5 } = require("../main/main")
